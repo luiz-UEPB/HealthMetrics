@@ -8,3 +8,7 @@
 4. **Categorias inconsistentes:** Não foram identificadas categorias inconsistentes nos municípios (221 municípios com grafia única).
 5. **Valores impossíveis:** Coordenadas compatíveis com a Paraíba (latitudes entre ~-8,39 e -6,10; longitudes entre ~-38,72 e -34,80).
 6. **Ausentes disfarçados:** Não foram identificados valores sentinela (como `9999`, `999`, `-` ou `.`) nas colunas analisadas.
+
+
+
+### https://colab.research.google.com/drive/11Wy0psi3VFdFo-RjLpRv50mfTuWOGbPK?usp=sharing
