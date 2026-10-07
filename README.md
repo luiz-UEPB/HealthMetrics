@@ -1,3 +1,5 @@
+# HealthMetrics
+
 ## Checagens de Qualidade de Dados (Paraíba)
 
 1. **Valores ausentes:** Foram identificados 59 valores ausentes em `LATITUDE` e 59 em `LONGITUDE`. As demais colunas originais analisadas não apresentaram valores ausentes.
